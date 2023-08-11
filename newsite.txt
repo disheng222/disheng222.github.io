@@ -1,0 +1,9 @@
+Your GCE account comes with a publicly available webspace.  Your home directory should contain a directory named public_html (actually a symbolic link to /nfs/pub_html/gce/homes/<username>) where you can place files.  That directory is accessible via https://web.cels.anl.gov/~username.  We can provide a custom URL to point to that space if desired, just send a help ticket.
+
+When requesting a GCE Project, you can specify a web directory as well.  That project directory will be available on all GCE computers under /nfs/pub_html/gce/projects/projectname and is accessible via https://web.cels.anl.gov/projects/projectname by default, though we can make other URLs work for this as well.
+
+For all of the above, Indexes is turned off, which means you cannot access a directory’s contents just by typing the parent URL.  If you try to access a directory that does not have an index.html or index.php file, you will get a permission denied error.  You can always access a specific file by its full URL.
+
+
+login:
+ssh sdi@homes-01.cels.anl.gov
