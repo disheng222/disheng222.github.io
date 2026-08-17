@@ -1,0 +1,46 @@
+## Awards Received
+- 2025, ACM Distinguished Member.
+- 2025, The IEEE Technical Committee on Scalable Computing (TCSC) award for Excellence (Middle Career Researcher).
+- 2025, Best paper runner-up in DRBSD25.
+- 2025, Best paper award in DRBSD25.
+- 2025, Best paper nominee in ICS25.
+- 2025, Best paper nominee in HPDC25.
+- 2025, Best paper award in IPDPS25.
+- 2025, Future Generation Computer Systems, (FGCS) Spring 2025 Editor's Choice Paper ('distinguished' paper certificate)
+- 2025, Best paper award in LDAV25.
+- 2024, IEEE Distinguished Contributor Award (2024 class)
+- 2024, Best student paper finalist in SC24
+- 2024, Best paper award in DRBSD24 in conjunction with SC24
+- 2023, Best poster nominee in CLUSTER23
+- 2023, 1st place of ACM SRC award -- Graduates (co-advisor)
+- 2023, Best paper award in IEEE Transactions on Bigdata 2023.
+- 2023, Best paper nominee in ICS23
+- 2022, Best paper award in DRBSD8, in conjunction with SC22
+- 2022, Best paper finalist in ACM SC22
+- 2022, 2nd place of ACM SC22 SRC award -- Graduates (co-advisor)
+- 2022, 1st place of ACM SRC award -- Undergraduates (co-advisor)
+- 2021, R&D 100 award (in recognition of leading SZ: A Lossy Compression Framework for Scientific Data)
+- 2021, DOE Early Career Research Program Award
+- 2019, IEEE Distinguished Research and Development Award (Chicago Section)
+- 2019, R&D 100 award (in recognition of participating in SCR: Scalable Checkpoint/Restart Framework)
+- 2018, IEEE Distinguished Mentoring Award (Chicago Section), in recognition of mentoring as a scientist in the area of data compression and software development
+- 2018, Overall best paper in IEEE CLUSTER (and one more best paper in Data&Storage Track)
+- 2018, Best paper nominee (honorable mention) in LDAV 2018 Symposium
+- 2016, Outstanding Contribution in Reviewing Award for JPDC journal
+- 2014, Best paper nominee in International Conf. on Cluster Computing (IEEE CLUSTER2014)
+- 2011, Best paper nominee in 40th International Conf. on Parallel Processing (IEEE ICPP2011)
+- 2011, Best student paper award in IEEE/ACM UCC2011
+- 2008, Best paper award in International Conference on the Digital Society (ICDS)
+- 2006, Full tuition fee scholarship, 2005-2006, Huazhong university of Science and Technology
+- 2006, Triple-A student, 2005-2006, Huazhong university of Science and Technology
+- 2005, First class scholarship, 2004-2005, Huazhong university of Science and Technology (top 10%)
+- 2005, Full tuition fee scholarship, 2004-2005, Huazhong university of Science and Technology
+- 2005, First class scholarship, 2004-2005, Huazhong university of Science and Technology
+- 2004, University excellent leader, 2003-2004, South-Central University for nationalities
+- 2003, Triple-A student, 2002-2003, South-Central University for nationalities
+- 2003, Second class scholarship, 2002-2003, South-Central University for nationalities (top 3%)
+- 2002, First class scholarship, 2001-2002, South-Central University for nationalities (top 1%)
+- 2001, Triple-A student, 2000-2001, South-Central University for nationalities
+- 2001, First class scholarship, 2000-2001, South-Central University for nationalities (top 1%)
+- 1999, First class prize, High-school Mathematics Competition, Province Award, Shandong Province, China
+- 1998, Second class prize, High-school Mathematics Competition, National Award, China

@@ -1,0 +1,33 @@
+<div class="sidebar">
+  <div class="photo">
+    <img src="{{ site.baseurl }}/{{ site.data.sidebar.photo }}" alt="{{ site.data.sidebar.name }}">
+  </div>
+
+  <div class="info-block">{{ site.data.sidebar.title }}</div>
+
+  <div class="info-block">{{ site.data.sidebar.affiliation }}</div>
+
+  <div class="info-block" style="font-weight: normal;">
+    {% for line in site.data.sidebar.address %}
+      {{ line }}<br>
+    {% endfor %}
+  </div>
+
+  <div class="info-block">{{ site.data.sidebar.education }}</div>
+
+  <div class="membership">{{ site.data.sidebar.membership }}</div>
+
+  <div class="email">
+    <u>
+      {% for email in site.data.sidebar.emails %}
+        {{ email }}{% unless forloop.last %} {% endunless %}
+      {% endfor %}
+    </u>
+  </div>
+
+  <div class="sidebar-links">
+    {% for link in site.data.sidebar.links %}
+      <a href="{{ link.url }}"><span class="arrow">&gt;&gt;</span> {{ link.text }}</a>
+    {% endfor %}
+  </div>
+</div>

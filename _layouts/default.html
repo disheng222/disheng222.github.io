@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+
+<div class="top-bar">
+  <div class="name-cell">{{ site.data.sidebar.name }}</div>
+  <div class="logos-cell">
+    <img src="{{ site.baseurl }}/assets/images/argonne-logo-light.png" alt="Argonne">
+    <img src="{{ site.baseurl }}/assets/images/glass.png" alt="" style="width:10px;">
+    <img src="{{ site.baseurl }}/assets/images/uchicago-logo-light.png" alt="UChicago">
+  </div>
+</div>
+
+<div class="page-wrapper">
+  {% include sidebar.html %}
+
+  <div class="content-area">
+    {{ content }}
+  </div>
+</div>
+
+</body>
+</html>

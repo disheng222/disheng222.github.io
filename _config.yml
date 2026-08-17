@@ -1,0 +1,39 @@
+title: "Dr. Sheng Di's Homepage"
+description: "Personal homepage of Dr. Sheng Di, Computer Scientist at Argonne National Laboratory"
+url: "https://disheng222.github.io"
+baseurl: ""
+
+collections:
+  sections:
+    output: false
+    order:
+      - summary.md
+      - software.md
+      - projects.md
+      - skills.md
+      - publications.md
+      - awards.md
+      - interests.md
+      - editors.md
+      - committees.md
+      - reviewers.md
+      - activities.md
+      - students.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "sections"
+    values:
+      layout: null
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - build.py

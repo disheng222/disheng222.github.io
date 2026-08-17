@@ -1,0 +1,128 @@
+## Invited External Reviewer
+
+- Reviewer: IEEE Grid Computing (GRID07), 2007
+- Reviewer: IEEE Transactions on Computers (ToC), 2008
+- Reviewer: Journal of Parallel Distributed and Computing (JPDC), 2008
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid09)
+- Reviewer: High Performance Computing Asia (HPCAsia09), 2009
+- Reviewer: IEEE International Conference on Cluster Computing (IEEE Cluster09), 2009
+- Reviewer: International Conference on Parallel and Distributed Computing (ICPADS09), 2009
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid10)
+- Reviewer: IEEE 4th International Conference on Cloud Computing (Cloud10), 2010
+- Reviewer: Journal of Computer Science and Technology (JCST), 2010
+- Reviewer: Heterogeneity in Computing Workshop (HCW10) in conjunction with IPDPS10
+- Reviewer: CNGrid Annual Conference 2009/2010/2011
+- Reviewer: IEEE/ACM International Parallel & Distributed Processing Symposium (IPDPS11), 2011
+- Reviewer: IEEE International Conference on Parallel Processing (ICPP11), 2011
+- Reviewer: Heterogeneity in Computing Workshop (HCW11) in conjunction with IPDPS11
+- Reviewer: International Conference on Services Computing (SCC11), 2011
+- Reviewer: Cloud Computing (CloudCom11), 2011
+- Reviewer: International Journal of Computational Science and Engineering, 2012
+- Reviewer: Cloud Computing (CloudCom12), 2012
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid13)
+- Reviewer: International Journal of Automated Software Engineering (ASE13), 2013
+- Reviewer: International Journal of Peer-to-Peer Networking and Applications (PPNA), 2013
+- Reviewer: International Conference on Networking and Grid Cloud Computing (ICNGCC-2013)
+- Reviewer: International Journal of Future Generation Computer Systems (FGCS-2013)
+- Reviewer: KSII Transactions on Internet and Information Systems (TIIS), 2013
+- Reviewer: Journal of Zhejiang University, 2013
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2013
+- Reviewer: Cloud computing (CloudCom13), 2013
+- Reviewer: Journal of Frontiers of Computer Science, 2013.
+- Reviewer: IEEE Transactions on Cloud Computing (TCC), 2013.
+- Reviewer: The 27th IEEE International Conference on Advanced Information Networking and Applications (AINA13), 2013.
+- Reviewer: IEEE/ACM International Parallel & Distributed Processing Symposium (IPDPS14), 2014
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid14)
+- Reviewer: Journal of Computer Science and Technology (JCST), 2014.
+- Reviewer: IEEE Transactions on Cloud Computing (TCC), 2014.
+- Reviewer: International Journal of Future Generation Computer Systems (FGCS), 2014
+- Reviewer: IEEE/ACM Proc. of 26th International Conference of SuperComputing (SC14), 2014
+- Reviewer, IEEE International Conference on Cloud Computing and Science (CloudCom14), 2014
+- Reviewer, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2014
+- Reviewer, IEEE/ACM International Parallel & Distributed Processing Symposium (IPDPS15), 2015
+- Reviewer: IEEE International Workshop on Cloud Computing Interclouds, Multiclouds, Federations, and Interoperability (Intercloud 2015), 2015
+- Reviewer: elsevier Journal of Systems and Software (JSS), 2015
+- Reviewer: International Journal of Future Generation Computer Systems (FGCS), 2015
+- Reviewer: International ACM Symposium on High Performance Parallel and Distributed Computing (HPDC15), 2015
+- Reviewer: IEEE Systems Journal (SJ), 2015.
+- Reviewer: Journal of Software: Practice and Experience (SPE), 2015.
+- Reviewer: Journal of Parallel Distributed and Computing (JPDC), 2015.
+- Reviewer: The Computer Journal, 2015.
+- Reviewer: International Conference on Cluster Computing (IEEE CLUSTER15), 2015.
+- Reviewer: The 12th Annual IFIP International Conference on Network and Parallel Computing (NPC15), 2015.
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2015.
+- Reviewer: IEEE Transactions on Cloud Computing (TCC), 2015.
+- Reviewer: Journal of Mathematical Problems in Engineering (MPE2015), 2015.
+- Reviewer: International Conference on Cloud Computing and Big Data (CCBD2015), 2015.
+- Reviewer: IEEE Transactions on Service Computing (TSC), 2015.
+- Reviewer: IEEE International conference on Big Data Intelligence and Comuputing (DataCom'15), 2015.
+- Reviewer: Journal of Knowledge based Systems (KBS), 2015.
+- Reviewer: International Parallel and Distributed Processing Symposium (IPDPS'16), 2016.
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid'16), 2016.
+- Reviewer: International ACM Symposium on High Performance Parallel and Distributed Computing (HPDC'16), 2016.
+- Reviewer: IEEE Transactions on Parallel and Distributed Computing (TPDS), 2016.
+- Reviewer: ACM International Conference on Supercomputing (ICS'16), 2016.
+- Reviewer: IEEE Transactions on Cloud Computing (TCC), 2016.
+- Reviewer: elsevier Journal of Parallel Computing (PARCO), 2016.
+- Reviewer: IEEE Transactions on Communications (TOC), 2016.
+- Reviewer: Journal of Parallel and Distributed Computing (JPDC), 2016.
+- Reviewer: IIS. Journal of Information Science and Engineering, 2016.
+- Reviewer: International Parallel and Distributed Processing Symposium (IPDPS'17), 2017.
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud, and Grid Computing (CCGrid'17), 2017.
+- Reviewer: IEEE International Conference on Cluster Computing (IEEE Cluster17), 2017.
+- Reviewer: IEEE Transactions on Parallel and Distributed Computing (TPDS), 2017.
+- Reviewer: The International Journal of High Performance Computing Applications (IJHPCA), 2017.
+- Reviewer: 3rd Workshop of Fault Tolerant Systems (FTS17), 2017.
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018.
+- Reviewer: Elsevier Computer Physics Communications (CPC), 2018.
+- Reviewer: IEEE International Congress on Bigdata, 2018.
+- Reviewer: International Conference on Parallel Processing (ICPP), 2018.
+- Reviewer: Future Generation System Computing (FGCS), 2018.
+- Reviewer: Journal of Concurrency and Computation: Practice and Experience (CCPE), 2018.
+- Reviewer: IEEE Cluster, 2018. [poster]
+- Reviewer: LNCS Asia-Pacific Services Computing Conference (APSCC), 2018.
+- Reviewer: Journal of Supercomputing, 2018.
+- Reviewer: ACM Transactions on Parallel Computing (TOPC), 2019
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019.
+- Reviewer: IEEE congress on BigData, 2019.
+- Reviewer: ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC19), 2019.
+- Reviewer: IEEE International Conference on Smart Data (SmartData-2019), 2019.
+- Reviewer: International Conference on Parallel Processing (ICPP), 2019.
+- Reviewer: SIAM Scientific Computing Journal, 2019
+- Reviewer: IEEE International Parallel and Distributed Processing Symposium (IPDPS'19), 2019
+- Reviewer: ACM Journal of Computing Surveys (CSUR), 2019
+- Reviewer: IEEE SmartDataService Conference, 2020
+- Reviewer: International Journal of Electrical Power and Energy Systems (IJEPES), 2020
+- Reviewer: Springer Peer-to-Peer Networking and Applications (PPNA2020), 2020
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), regular track, 2020.
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), special section on Parallel and Distributed Computing Techniques for AI, ML and DL, 2020.
+- Reviewer: IEEE International Conference on Cluster Computing (IEEE CLUSTER-2020), 2020.
+- Reviewer: International Conference on High Performance Computing (IEEE/ACM HiPC 2020).
+- Reviewer: ACM Computing Surveys (CSUR), 2020.
+- Reviewer: IEEE Transactions on Smart Grid, 2020.
+- Reviewer: Journal of Mathematical Problems in Engineering (MPE), 2020.
+- Reviewer: Journal of Information Sciences, 2021.
+- Reviewer: IEEE Transactions on Cloud Computing (TCC), 2021.
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2021.
+- Reviewer: The International Journal of High Performance Computing Applications (*IJHPCA*), 2021.
+- Reviewer: IEEE Special Section on Parallel and Distributed Computing Techniques for AI, ML, and DL ([IEEE TPDS-SS-AI 2021](computer.org/digital-library/journals/td/call-for-papers-special-section-on-parallel-and-distributed-computing-techniques-for-ai-ml-and-dl)), 2021.
+- Reviewer: IEEE 2021 International Conference on Machine Learning and Applications ([IEEE ICMLA2021](https://www.icmla-conference.org/icmla21/)), 2021.
+- Reviewer: Journal of Computational Science (JOCSCI), 2022.
+- Reviewer: Special Issue on Parallel Programming Models and Systems Software for High-End Computing of the Journal: Concurrency and Computation: Practice and Experience (CPE), 2022.
+- Reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022.
+- Reviewer: Knowledge-Based Systems (KNOSYS), 2022.
+- Reviewer: IEEE Visualization (IEEE Vis) 2023.
+- Reviewer: Frontier in High Performance Computing (Journal), 2023.
+- Reviewer: Transactions on Parallel and Distributed Systems (IEEE TPDS) journal (5 papers), 2023.
+- Reviewer: IEEE Transactions on Visualization and Computer Graphics (IEEE TVCG2023) (2 papers)., 2023.
+- Reviewer: Kansas NSF EPSCoR, (NSF proposal), 2024.
+- Reviewer: Journal of Parallel Distributed Computing (JPDC), 2024.
+- Reviewer: Future Generation Computer Systems (FGCS), 2024.
+- Reviewer: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2024.
+- Reviewer: IEEE/ACM International Parallel & Distributed Processing Symposium (IPDPS24), 2024.
+- Reviewer: ACM Transactions on Internet of Things (ACM TIT), 2025.
+- Reviewer: Journal of Parallel Computing (PARCO), 2025.
+- Reviewer: Transactions on Knowledge and Data Engineering (IEEE TKDE), 2025.
+- Reviewer: Transactions on Parallel and Distributed Computing (IEEE TPDS), 2025.
+- Reviewer: Transactions on Computers (IEEE TC), 2025.
+- Reviewer: International Journal of Future Generation Computer Systems (FGCS), 2025.

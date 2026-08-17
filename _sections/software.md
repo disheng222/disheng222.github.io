@@ -1,0 +1,21 @@
+## Software Products Developed
+
+- **ZCCL**: The Compression-accelerated Collective Communications Library: [zccl.org](https://zccl.org){:target="_blank"}
+- **IPCOMP**: Interpolation-Based Progressive Lossy Compression for Scientific Datasets: [https://github.com/szcompressor/IPComp](https://github.com/szcompressor/IPComp){:target="_blank"}
+- **SZp** (Co-developer): A superfast error-bounded lossy compressor on CPU: [https://github.com/szcompressor/SZp](https://github.com/szcompressor/SZp){:target="_blank"}
+- **ROCCI/SECRE** (PI and core developer): An Integrated Cyberinfrastructure for In Situ Lossy Compression Optimization with HDF5: [https://github.com/roccilab/h5z-rocci](https://github.com/roccilab/h5z-rocci){:target="_blank"}
+- **LC-framework** (coPI and co-developer): A framework for automatically generating customized lossless and guaranteed-error-bounded lossy data-compression algorithms: [https://github.com/burtscher/LC-framework/](https://github.com/burtscher/LC-framework/){:target="_blank"}
+- **cuSZp** (Co-developer): A superfast error-bounded lossy compressor on CUDA GPU: [https://github.com/szcompressor/cuszp](https://github.com/szcompressor/cuszp){:target="_blank"}
+- **cuSZ** (Co-developer): [http://szcompressor.org](http://szcompressor.org){:target="_blank"}
+- **SZ2** (key developer): [https://github.com/szcompressor/SZ2](https://github.com/szcompressor/SZ2){:target="_blank"}
+- **AID** (PI and core developer): Adaptive Impact-driven Detector for SDC: [http://collab.cels.anl.gov/display/ESR/AID](http://collab.cels.anl.gov/display/ESR/AID){:target="_blank"}
+- **Z-checker** (PI and core developer): Exascale Scientific Data Analysis Library with Lossy Compression: [https://github.com/CODARcode/Z-checker](https://github.com/CODARcode/Z-checker){:target="_blank"}
+- **GloudSim** (PI and core developer): Google data based Cloud Simulator: [https://github.com/nThanksForAllTheFish/gloudsim](https://github.com/nThanksForAllTheFish/gloudsim){:target="_blank"}
+- **Libpressio** (Co-designer): A library to abstract between different lossless and lossy compressors: [https://github.com/robertu94/libpressio](https://github.com/robertu94/libpressio){:target="_blank"}
+- **MDZ**: Error-bounded lossy compressor customized for molecular dynamics datasets: [https://github.com/szcompressor/MMD-SZ](https://github.com/szcompressor/MMD-SZ){:target="_blank"}
+- **Interp-SZ/SZ3** (Core Developer): Interpolation-based error-bounded lossy compressor: [https://github.com/szcompressor/SZ3](https://github.com/szcompressor/SZ3){:target="_blank"}
+- **QCAT** (PI and core developer): Quick lossy Compression Analysis Toolkit: [https://github.com/szcompressor/qcat](https://github.com/szcompressor/qcat){:target="_blank"}
+- **Fault Tolerant Interface** (Co-developer): [https://github.com/leobago/fti](https://github.com/leobago/fti){:target="_blank"}
+- **LogAider** (Main developer): HPC log data analysis tool: [https://github.com/disheng222/LogAider](https://github.com/disheng222/LogAider){:target="_blank"}
+- **H5Z-SZ** (PI and core developer): The filter of SZ for HDF5: [https://github.com/disheng222/H5Z-SZ](https://github.com/disheng222/H5Z-SZ){:target="_blank"}
+- **PnetCDF-SZ** (Co-developer): A utility tool to compress/decompress netCDF file by SZ using PnetCDF: [https://github.com/Parallel-NetCDF/PnetCDF-SZ](https://github.com/Parallel-NetCDF/PnetCDF-SZ){:target="_blank"}

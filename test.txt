@@ -1,0 +1,32 @@
+  Local Testing (Python - no Ruby needed)
+
+  cd homepage-jekyll
+  python3 build.py              # Builds to _site/
+  python3 build.py --serve      # Builds and starts server at http://localhost:8000
+
+  Requires: pip3 install markdown-it-py jinja2 pyyaml (all already installed).
+
+  Deploy to GitHub Pages (Option 1 - Jekyll)
+
+  # Push the entire homepage-jekyll/ directory as the repo root to disheng222.github.io
+  cd homepage-jekyll
+  git init
+  git add .
+  git commit -m "Refactored homepage with markdown sections"
+  git remote add origin git@github.com:disheng222/disheng222.github.io.git
+  git push -u origin main
+
+  GitHub Pages will automatically build with Jekyll. No CI configuration needed.
+
+  Deploy to GitHub Pages (Option 2 - Pre-built)
+
+  # Build locally and push only the _site/ output
+  cd homepage-jekyll
+  python3 build.py
+  cd _site
+  git init
+  git add .
+  git commit -m "Deploy homepage"
+  git remote add origin git@github.com:disheng222/disheng222.github.io.git
+  git push -u origin main --force
+

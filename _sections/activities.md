@@ -1,0 +1,55 @@
+## Activities (Invited Talks)
+
+- 2025, Nov., **Tutorial speaker** at Compression for Science Data Tutorial in SC2025, **St. Louis, MO, USA.**
+- 2025, July 8, **Invited talk** at 11th CODESIGN Workshop, **Osaka, Japan.**
+- 2025, May, **Invited talk** at 17th JLESC workshop, **Lemont, IL, USA.**
+- 2025, March 25, **Invited talk** at DOE PI meeting, **Frisco, TX, USA.**
+- 2024, Nov., **Tutorial speaker** at Compression for Scientific Data tutorial in IEEE/ACM SC2024, **Atlanta, GA, USA.**
+- 2024, July 22, **Invited talk** at CoDAC Correct Data Compression workshop, **Montreal, Canada.**
+- 2024, May 29th, **Invited seminar talk** at Stevens Institute of Technology, **New Jersey, USA.**
+- 2024, April 16th, **Invited talk** at Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, **Kobe, Japan.**
+- 2023, March 02, **Invited talk** at SIAM Conference on Computational Science and Engineering (CSE23), **Amsterdam, Netherlands.**
+- 2023, Feb 15, **Invited talk** at "Compression for Scientific Applications", BOF session on ECP Annual meeting, **Virtual meeting.**
+- 2023, Feb 07, **Invited talk** at "New stories about Lossy Compression for Scientific Datasets", CS Seminar Series, MCS Division, Argonne National Laboratory, **Lemont, IL, USA.**
+- 2022, Sept. 18th, **Invited talk** at 'Compression session' of 14th Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, NCSA, **Champaign, USA.**
+- 2022, Aug. 30th, **Invited talk** at DOE Computer Graphics Forum (DOECGF 2022). Title: Scalable Dynamic Scientific Data Reduction, **Virtual meeting.**
+- 2022, April, 15th, **Poster presentation** at ECP annual meeting, **Virtual meeting.**
+- 2022, Jan 24, **Invited talk** at 'Breakout session on data reduction for ECP Applications' section in ECP annual meeting, **Virtual meeting.**
+- 2022, Jan 24th, **White paper presentation** at ASCR Workshop on the Management and Storage of Scientific Data, **Virtual meeting.**
+- 2021, Dec. 16th, **Invited Talk** at 'Compression session' of 13th Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, **Virtual meeting.**
+- 2021, April, **Invited Talk** at 'Lossy data reduction for ECP applications' session in ECP annual meeting, **Virtual meeting.**
+- 2021, April, **Invited Talk** at 'ECP Community BOF: Tools for Data-driven Analysis and Improvement of HPC Scientific Software Development', **Virtual meeting.**
+- 2021, Feb., **Invited Talk** at Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, **Virtual meeting.**
+- 2019, Nov. **Tutorial Speaker** in Compression for Scientific Data at Supercomputing (SC19), 2019, **Denver, USA.**
+- 2019, Oct, **Invited Talk** at Illinois Institute of Technology (IIT), **Chicago, USA.**
+- 2019, Oct, **Invited Talk** at Wayne State University (WSU), **Detroit, USA.**
+- 2019, April, **Invited Talk** at Joint Laboratory for Extreme Scale Computing (JLESC) workshop, Tennessee, **Knoxville, USA.**
+- 2019, March, **Invited Talk** about Z-checker at ECP CODAR all-hands meeting in ORNL, **USA.**
+- 2019, March, **Invited Talk** about SZ at ECP Exasky all-hands meeting in **Santa Fe, USA.**
+- 2018, Nov. **Tutorial Speaker** in Compression for Scientific Data at Supercomputing (SC18), 2018, **Denver, USA.**
+- 2018, June 18-20, **Invited Talk** at [The 13th scheduling for large scale systems workshop](http://scheduling-workshop.tk/), Berkeley, CA.
+- 2017, Nov. **Tutorial Speaker** in Compression for Scientific Data at Supercomputing (SC17), 2017, **Denver, USA.**
+- 2017, July, **Invited Talk** at Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, **Champaign, USA.**
+- 2016, Dec, **Invited Talk** at Joint Laboratory for Extreme-Scale Computing (JLESC) workshop, **Kobe, Japan.**
+- 2016, Nov, **Invited Talk** at Youth workshop, **Kobe, Japan.**
+- 2016, Sept. 15th, **Invited Talk** at Fault Tolerant System workshop, in conjunction with IEEE CLUSTER conference, **Taipei, Taiwan.**
+- 2016, June, **Invited Talk** at Huazhong University of Science and Technology (HUST), **Wuhan, China.**
+- 2016, May 5th, **Invited Talk** at Hubei University of Technology, **Wuhan, China.**
+- 2016, March, **Invited Poster Presentation** at Los Alomas National Lab (LANL), **USA.**
+- 2014, Nov. 25th, **Invited Talk** at [Joint Laboratory for Extreme-Scale Computing (JLESC)](http://publish.illinois.edu/jointlab-esc/2cd-jlesc-workshop-nov-24-26-chicago/) Workshop, **Champaign, USA.**
+- 2014, May 8th, **Invited Talk** at Argonne National Laboratory, **Lemont, USA.**
+- 2014, April 2nd, **Invited Talk** at University of California - Merced (UC-Merced), **Merced, USA.**
+- 2014, Feb. 11th, **Invited Talk** at Huazhong University of Science and Technology (HUST), **Wuhan, China.**
+- 2014, Jan. 24th, **Invited Talk** at Shenzhen Institutes of Advanced Technology (SIAT), **Shenzhen, China.**
+- 2014, Jan. 23rd, **Invited Talk** at The University of Hong Kong, Hong Kong, **Hong Kong, China.**
+- 2013, Nov. 25-27, **Invited Talk** at [the 10th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing](http://jointlab.ncsa.illinois.edu/), **UIUC, USA.**
+- 2013, June 12-14, **Invited Talk** at [the 9th Workshop of the INRIA-Illinois Joint Laboratory on Petascale Computing](http://jointlab.ncsa.illinois.edu/), **Lyon, France.**
+- 2012, Nov. 19-22, **Invited Talk** at **Google (Mountain View, California), USA.**
+- 2011, Aug. 22-23, **Final-check Report** for HKU-Grid Point project, on behalf of System Research Group of The University of Hong Kong, **Beijing (Peking), China.**
+- 2011, Jan. 12-13, **Invited Talk** for reporting the development progress for HKU-Grid Point project, on behalf of System Research Group of The University of Hong Kong, **Beijing (Peking), China.**
+- 2010, July. 29-Aug. 1, **Invited Talk** for reporting the development progress for HKU-Grid, on behalf of System Research Group of The University of Hong Kong, at **Xilinhot, Inter Mongolia, China.**
+- 2008, Dec. 18-20, **Invited Talk** for reporting the development progress for HKU-Grid, on behalf of System Research Group of The University of Hong Kong, at **Shanghai, China.**
+- 2008, July. 24-25, **Invited Talk** for reporting the development progress for HKU-Grid Point project, on behalf of System Research Group of The University of Hong Kong, at **Wuxi, Jiangsu, China.**
+- 2008, Jun. 22-25, **Invited Talk** for reporting the development progress for HKU-Grid Point project, on behalf of System Research Group of The University of Hong Kong, at **Beijing (Peking), China.**
+- 2007, Oct., **Organization & Coordination** of the demonstration for SRG Group (Open-day), HKU.
+- 2007, July 24-25, **Invited Talk** for reporting the development progress for HKU-Grid Point project, on behalf of System Research Group of The University of Hong Kong, at **Beijing (Peking), China.**

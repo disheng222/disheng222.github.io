@@ -1,0 +1,64 @@
+## Mentored Students and Post-doc Researchers
+
+- Kevin Dougherty (Master from University of Chicago, USA)
+- Yiwenbo Pu (Ph.D student from University of South Florida, USA)
+- Yuhao Guo (Ph.D student from University of South Florida, USA)
+- Jiefeng Zhou (Ph.D student from University of South Florida, USA)
+- Ziwei Qiu (Ph.D student from University of Houston, USA)
+- Shouwei Gao (Ph.D student from Oregon State University, USA)
+- Changqing Li (Ph.D student from Oregon State University, USA)
+- Abdullah Naveed (Ph.D student from University of Florida, USA)
+- Giovanni Rivera (Ph.D student from University of California, Riverside, USA)
+- Yu Zhu (Ph.D student from University of California, Riverside, USA)
+- Ruiheng Chen (Ph.D student from Indiana University, USA)
+- Longtao Zhang (Ph.D student from Florida State University, USA)
+- Congrong Ren (Ph.D student from Ohio State University, USA)
+- Xuan Wu (Ph.D student from University of Kentucky, USA)
+- Bohan Zhang (Ph.D student from University of Florida, USA)
+- Ammar Ahmed (Ph.D student from University of Minnesota, USA)
+- Khondoker Mumenin (Ph.D student from University of North Carolina at Charlotte, USA)
+- Boyuan Zhang (Ph.D student from Indiana University, USA)
+- Harvey Dam (Ph.D student from University of Utah, USA)
+- Shihui Song (Ph.D student from University of Iowa, USA)
+- Shan Huang (Ph.D student from Stevens Institute of Technology, USA)
+- Weijin Liu (Ph.D student from Stevens Institute of Technology, USA)
+- Mingze Xia (Ph.D student from University of Kentucky, USA)
+- Alexandra Poulos (Ph.D student from Clemson University, USA)
+- Ning Yan (Ph.D student from Georgia State University, USA)
+- Darren Ng (Ph.D student from University of California, Merced, USA)
+- Zizhe Jian (Ph.D student from University of California, Riverside, USA)
+- Tripti Agarwal (Ph.D student from University of Utah, USA)
+- Tri Nguyen (Ph.D student from NC State University, USA); Present: [NVidia](https://www.nvidia.com/en-us/), USA.
+- Grant Wilkins (Ph.D student from Clemson University, USA)
+- Di Zhang (Ph.D student from The University of North Carolina at Charlotte, USA)
+- Milan Shah (Ph.D student from NC State University, USA)
+- Pu Jiao (Ph.D student from University of Kentucky, USA)
+- Zhaoyuan (Alex) Su (Ph.D student from GMU, USA)
+- Arham Khan (Ph.D student from University of Chicago, USA)
+- [Ali M. Gok](https://scholar.google.com/citations?user=TC-7yVkAAAAJ&hl=en) (Ph.D student from [NU](https://www.northwestern.edu/), USA); Postdoc at Argonne; Present: [d-Matrix](https://www.d-matrix.ai/), USA.
+- [Xiaodong Yu](https://xiaodong-yu.github.io/) (Ph.D student from [Virginia Tech](https://vt.edu/), USA); Assistant Professor at [Stevens Institute of Technology](https://www.stevens.edu/), USA.
+- Jiannan Tian (Ph.D student from [WSU](https://wsu.edu/), USA).
+- [Robert Underwood](https://robertu94.github.io/) (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
+- [Kai Zhao](https://www.cs.ucr.edu/~kzhao016/index.html) (Ph.D student from [UCR](https://www.ucr.edu/), USA).
+- [Sian Jin](https://scholar.google.com.hk/citations?user=heoDjhAAAAAJ&hl=zh-CN) (Ph.D student from [WSU](https://wsu.edu/), USA).
+- Jinyang Liu (Ph.D student from [UCR](https://www.ucr.edu/), USA).
+- [Yuanjian Liu](https://newtraell.cs.uchicago.edu/people/yuanjian) (Ph.D student from [U. Chicago](https://www.uchicago.edu/), USA).
+- Yafan Huang (Ph.D student from [U. Iowa](https://uiowa.edu/), USA)
+- Md Hasanur Rahman (Ph.D student from [U. Iowa](https://uiowa.edu/), USA)
+- [Eduardo Berrocal](https://eduberrocal.net/) (Ph.D student from [IIT](https://www.iit.edu/), USA); Present: Senior Software Engineer at [Intel Inc.](https://www.intel.com/), USA.
+- [Omer Subasi](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9098) (Ph.D student from [BSC](https://www.bsc.es/), Spain); Present: Computer Scientist at [PNNL](https://www.pnnl.gov/), USA.
+- [Dingwen Tao](https://www.dingwentao.com/) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Full Professor at [Chinese Academy of Sciences](https://english.cas.cn/), USA.
+- [Xin Liang](https://lxaltria.github.io/) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Assistant Computer Scientist at [Oregon State University](https://oregonstate.edu/), USA.
+- [Sihuan Li](https://sites.google.com/ucr.edu/sli049/home) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Engineer at [Meta Inc.](http://www.facebook.com), USA.
+- Tasimia Reza (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
+- Ruiwen Shan (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
+- David Krasowska (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
+- [Cody Rivera](https://scholar.google.com/citations?user=WGLOY2QAAAAJ&hl=en) (Bachelor student from [UA](https://www.ua.edu/), USA).
+- Hengzhi Chen (Bachelor student from [USC](https://www.usc.edu/), USA).
+- [Hongyuan Liu](https://www.liuhongyuan.com/) (Ph.D student from [W&M](https://www.wm.edu/), USA).
+- [Khalid Alharthi](https://warwick.ac.uk/fac/sci/dcs/people/khalid_alharthi/) (Ph.D student from [University of Warwick](https://warwick.ac.uk/), UK).
+- Hao Liu (Bachelor student from [HKU](http://www.hku.hk), China); Present: Engineer at [Google Inc.](google.com), USA.
+- [Haibao Chen](https://scholar.google.com/citations?user=csmvEJYAAAAJ&hl=th) (Ph.D student from [HUST](https://hust.edu.cn/), China).
+- Xinhou Wang (Ph.D student from [HUST](https://hust.edu.cn/), China).
+- [Xinchuan Wu](https://www.xinchuanwu.com/) (Ph.D student from [U. Chicago](https://www.uchicago.edu/)); Present: Engineer at [Intel Inc.](https://www.intel.com/), USA.
+- Zheming Xu (Master student from [HKU](http://www.hku.hk), China).

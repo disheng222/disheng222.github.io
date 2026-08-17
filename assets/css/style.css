@@ -1,0 +1,355 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 11pt;
+  background-color: #CCFFFF;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* --- Top logo bar: fixed at top, with banner image --- */
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  background: url('../images/banner-bg.png') center/cover no-repeat, #0a1e3d;
+  height: 48px;
+  border-bottom: 2px solid #003d7a;
+}
+
+.top-bar .name-cell {
+  width: 165px;
+  min-width: 165px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18pt;
+  font-weight: bold;
+  color: #FFFF00;
+  font-family: Arial, sans-serif;
+  border-right: 2px solid #003d7a;
+  background: rgba(0, 40, 100, 0.55);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.top-bar .logos-cell {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+  padding-right: 10px;
+}
+
+.top-bar .logos-cell img {
+  height: 44px;
+  width: auto;
+}
+
+/* --- Page wrapper: below the top bar --- */
+.page-wrapper {
+  display: flex;
+  position: fixed;
+  top: 48px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* --- Sidebar: fixed left panel, flexbox fills all space --- */
+.sidebar {
+  width: 165px;
+  min-width: 165px;
+  background-color: #0066CC;
+  color: #FFFF00;
+  font-family: Arial, sans-serif;
+  overflow-y: auto;
+  font-size: 10pt;
+  border-right: 2px solid #003d7a;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar .photo {
+  text-align: center;
+  padding: 3px 0;
+  border-bottom: 1px solid #3388dd;
+}
+
+.sidebar .photo img {
+  width: 140px;
+  height: 141px;
+}
+
+.sidebar .info-block {
+  padding: 4px 6px;
+  font-size: 10pt;
+  font-weight: bold;
+  color: #FFFF00;
+  text-align: center;
+  line-height: 1.3;
+  border-bottom: 1px solid #3388dd;
+}
+
+.sidebar .membership {
+  padding: 4px 6px;
+  font-size: 10pt;
+  color: #CCFF00;
+  text-align: center;
+  line-height: 1.3;
+  border-bottom: 1px solid #3388dd;
+}
+
+.sidebar .email {
+  padding: 4px 6px;
+  font-size: 10pt;
+  color: #CCFF00;
+  text-align: center;
+  line-height: 1.3;
+  border-bottom: 1px solid #3388dd;
+}
+
+.sidebar .email u {
+  text-decoration: underline;
+}
+
+/* Sidebar links: expand to fill ALL remaining space */
+.sidebar-links {
+  text-align: left;
+  padding: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-links a {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding: 0 6px;
+  font-size: 10pt;
+  font-weight: bold;
+  color: #CCFFFF;
+  text-decoration: none;
+  line-height: 1.4;
+  border-bottom: 1px solid #3388dd;
+}
+
+.sidebar-links a:last-child {
+  border-bottom: none;
+}
+
+.sidebar-links a:hover {
+  text-decoration: underline;
+  background-color: #0055AA;
+}
+
+.sidebar-links .arrow {
+  color: #FFFF00;
+  font-weight: bold;
+  margin-right: 3px;
+}
+
+/* --- Main content: scrollable area --- */
+.content-area {
+  flex: 1;
+  background-color: #FFFFFF;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Section navigation bar: button-style links */
+.section-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background-color: #0066CC;
+  padding: 0;
+  display: flex;
+  align-items: stretch;
+  flex-shrink: 0;
+  border-bottom: 2px solid #003d7a;
+}
+
+.section-nav a {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10pt;
+  font-weight: bold;
+  text-decoration: none;
+  color: #FFFF00;
+  padding: 6px 4px;
+  border-right: 1px solid #3388dd;
+  text-align: center;
+  white-space: nowrap;
+  transition: background-color 0.15s;
+}
+
+.section-nav a:last-child {
+  border-right: none;
+}
+
+.section-nav a:hover {
+  background-color: #004499;
+  color: #FFFFFF;
+}
+
+.section-nav a:active {
+  background-color: #003366;
+}
+
+/* Scrollable content below the nav */
+.content-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px 15px;
+}
+
+/* Section headings */
+.content-body h2 {
+  font-size: 11pt;
+  font-weight: bold;
+  color: #000080;
+  font-family: Arial, sans-serif;
+  margin-top: 18px;
+  margin-bottom: 6px;
+}
+
+/* Content styling */
+.content-body ul {
+  margin-left: 25px;
+  margin-bottom: 8px;
+}
+
+.content-body ol {
+  margin-left: 25px;
+  margin-bottom: 8px;
+}
+
+.content-body li {
+  margin-bottom: 1px;
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+.content-body p {
+  margin-bottom: 4px;
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+.content-body a {
+  color: #0000FF;
+  text-decoration: underline;
+}
+
+.content-body a:visited {
+  color: #551A8B;
+}
+
+/* PDF icon - constrain ALL pdflogo images */
+.content-body img[src*="pdflogo"],
+.content-area img[src*="pdflogo"] {
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+}
+
+.content-body a > img,
+.content-area a > img {
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  body {
+    overflow: auto;
+  }
+
+  .top-bar {
+    position: relative;
+    height: auto;
+    flex-wrap: wrap;
+  }
+
+  .top-bar .name-cell {
+    width: auto;
+    min-width: auto;
+    padding: 8px 10px;
+    border-right: none;
+    border-bottom: 1px solid #3388dd;
+  }
+
+  .page-wrapper {
+    position: relative;
+    top: 0;
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    min-width: 100%;
+    padding: 10px;
+    overflow-y: visible;
+    border-right: none;
+    display: block;
+  }
+
+  .sidebar .photo img {
+    width: 100px;
+    height: auto;
+  }
+
+  .sidebar-links {
+    display: block;
+  }
+
+  .sidebar-links a {
+    display: block;
+    padding: 4px 6px;
+  }
+
+  .content-area {
+    overflow: visible;
+  }
+
+  .content-body {
+    overflow-y: visible;
+  }
+
+  .section-nav {
+    position: relative;
+    flex-wrap: wrap;
+  }
+
+  .section-nav a {
+    flex: none;
+    padding: 6px 8px;
+  }
+
+  .top-bar .name-cell {
+    width: auto;
+    min-width: auto;
+    padding: 0 10px;
+  }
+}
