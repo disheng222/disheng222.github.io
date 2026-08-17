@@ -49,6 +49,31 @@ def load_sidebar_data():
         return yaml.safe_load(f)
 
 
+def auto_number_publications(html):
+    """Add class="pub" to <p> tags inside <div class="pub-list"> that are not year headers."""
+    YEAR_HEADER = re.compile(r'^<p><strong>-----\d{4}')
+    parts = re.split(r'(<div class="pub-list">|</div>)', html)
+    inside = False
+    result = []
+    for part in parts:
+        if part == '<div class="pub-list">':
+            inside = True
+            result.append(part)
+        elif part == '</div>' and inside:
+            inside = False
+            result.append(part)
+        elif inside:
+            part = re.sub(
+                r'<p>(?!<strong>-----\d{4})',
+                '<p class="pub">',
+                part,
+            )
+            result.append(part)
+        else:
+            result.append(part)
+    return ''.join(result)
+
+
 def render_markdown(text):
     # Strip kramdown attribute syntax like {:target="_blank"} before rendering
     text = re.sub(r'\{:target="_blank"\}', '', text)
@@ -57,6 +82,7 @@ def render_markdown(text):
     html = md.render(text)
     # Make external links open in new tab
     html = html.replace('<a href="http', '<a target="_blank" href="http')
+    html = auto_number_publications(html)
     return html
 
 

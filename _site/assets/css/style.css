@@ -280,6 +280,21 @@ body {
   vertical-align: middle;
 }
 
+/* --- Auto-numbered publications --- */
+.pub-list {
+  counter-reset: pub-counter;
+}
+
+.pub-list p.pub {
+  counter-increment: pub-counter;
+  margin-bottom: 4px;
+}
+
+.pub-list p.pub::before {
+  content: counter(pub-counter) ". ";
+  font-weight: bold;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   body {
