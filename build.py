@@ -68,6 +68,11 @@ def auto_number_publications(html):
                 '<p class="pub">',
                 part,
             )
+            part = re.sub(
+                r'<p>(<strong>-----\d{4})',
+                r'<p class="pub-year">\1',
+                part,
+            )
             result.append(part)
         else:
             result.append(part)
