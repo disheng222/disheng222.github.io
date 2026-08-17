@@ -259,6 +259,19 @@ def build():
             print(f"  - {f.name}")
 
 
+def deploy():
+    """Copy built files from _site/ to the repo root for direct serving."""
+    for item in BUILD_DIR.iterdir():
+        dest = ROOT / item.name
+        if item.is_dir():
+            if dest.exists():
+                shutil.rmtree(dest)
+            shutil.copytree(item, dest, dirs_exist_ok=True)
+        else:
+            shutil.copy2(item, dest)
+    print(f"Deployed _site/ contents to {ROOT}/")
+
+
 def serve():
     import http.server
     import functools
@@ -274,5 +287,7 @@ def serve():
 
 if __name__ == "__main__":
     build()
+    if "--deploy" in sys.argv:
+        deploy()
     if "--serve" in sys.argv:
         serve()
