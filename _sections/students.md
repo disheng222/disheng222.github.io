@@ -21,7 +21,6 @@
 - Khondoker Mumenin (Ph.D student from University of North Carolina at Charlotte, USA)
 - Boyuan Zhang (Ph.D student from Indiana University, USA)
 - Harvey Dam (Ph.D student from University of Utah, USA)
-- Shihui Song (Ph.D student from University of Iowa, USA)
 - Shan Huang (Ph.D student from Stevens Institute of Technology, USA)
 - Weijin Liu (Ph.D student from Stevens Institute of Technology, USA)
 - Mingze Xia (Ph.D student from University of Kentucky, USA)
@@ -29,23 +28,24 @@
 - Ning Yan (Ph.D student from Georgia State University, USA)
 - Darren Ng (Ph.D student from University of California, Merced, USA)
 - Zizhe Jian (Ph.D student from University of California, Riverside, USA)
-- Tripti Agarwal (Ph.D student from University of Utah, USA)
+- Tripti Agarwal (Ph.D student from University of Utah, USA); Present: Engineer at Amazon.
 - Tri Nguyen (Ph.D student from NC State University, USA); Present: [NVidia](https://www.nvidia.com/en-us/), USA.
-- Grant Wilkins (Ph.D student from Clemson University, USA)
+- Grant Wilkins (Undergraduate student from Clemson University; Ph.D student at Stanford University, USA)
 - Di Zhang (Ph.D student from The University of North Carolina at Charlotte, USA)
-- Milan Shah (Ph.D student from NC State University, USA)
-- Pu Jiao (Ph.D student from University of Kentucky, USA)
+- Milan Shah (Ph.D student from NC State University, USA); Present: Performance Engineer at Hewlett Packard Enterprise (HPE), USA.
+- Shihui Song (Ph.D student from University of Iowa, USA); Present: Assistant Professor at Wayne State University, USA.
+- Pu Jiao (Ph.D student from University of Kentucky, USA); Present: Assistant Professor at University of Texas Rio Grande Valley, USA.
 - Zhaoyuan (Alex) Su (Ph.D student from GMU, USA)
 - Arham Khan (Ph.D student from University of Chicago, USA)
 - [Ali M. Gok](https://scholar.google.com/citations?user=TC-7yVkAAAAJ&hl=en) (Ph.D student from [NU](https://www.northwestern.edu/), USA); Postdoc at Argonne; Present: [d-Matrix](https://www.d-matrix.ai/), USA.
 - [Xiaodong Yu](https://xiaodong-yu.github.io/) (Ph.D student from [Virginia Tech](https://vt.edu/), USA); Assistant Professor at [Stevens Institute of Technology](https://www.stevens.edu/), USA.
-- Jiannan Tian (Ph.D student from [WSU](https://wsu.edu/), USA).
-- [Robert Underwood](https://robertu94.github.io/) (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
-- [Kai Zhao](https://www.cs.ucr.edu/~kzhao016/index.html) (Ph.D student from [UCR](https://www.ucr.edu/), USA).
-- [Sian Jin](https://scholar.google.com.hk/citations?user=heoDjhAAAAAJ&hl=zh-CN) (Ph.D student from [WSU](https://wsu.edu/), USA).
+- Jiannan Tian (Ph.D student from [WSU](https://wsu.edu/), USA); Present: Assistant Professor at Oakland University, USA.
+- [Robert Underwood](https://robertu94.github.io/) (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA); Present: Assistant Computer Scientist at Argonne National Laboratory, USA.
+- [Kai Zhao](https://www.cs.ucr.edu/~kzhao016/index.html) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Assistant Professor at Florida State University, USA.
+- [Sian Jin](https://scholar.google.com.hk/citations?user=heoDjhAAAAAJ&hl=zh-CN) (Ph.D student from [WSU](https://wsu.edu/), USA); Present: Assistant Professor at Purdue University, USA.
 - Jinyang Liu (Ph.D student from [UCR](https://www.ucr.edu/), USA).
 - [Yuanjian Liu](https://newtraell.cs.uchicago.edu/people/yuanjian) (Ph.D student from [U. Chicago](https://www.uchicago.edu/), USA).
-- Yafan Huang (Ph.D student from [U. Iowa](https://uiowa.edu/), USA)
+- Yafan Huang (Ph.D student from [U. Iowa](https://uiowa.edu/), USA); Present: Assistant Professor at University of Maryland, USA.
 - Md Hasanur Rahman (Ph.D student from [U. Iowa](https://uiowa.edu/), USA)
 - [Eduardo Berrocal](https://eduberrocal.net/) (Ph.D student from [IIT](https://www.iit.edu/), USA); Present: Senior Software Engineer at [Intel Inc.](https://www.intel.com/), USA.
 - [Omer Subasi](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9098) (Ph.D student from [BSC](https://www.bsc.es/), Spain); Present: Computer Scientist at [PNNL](https://www.pnnl.gov/), USA.
