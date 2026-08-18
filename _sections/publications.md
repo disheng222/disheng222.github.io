@@ -12,7 +12,7 @@ Ammar Ahmed, Sheng Di, Franck Cappello, Zirui Liu, Jingoo Han, and Ali Anwar, "S
 
 Khondoker Mirazul Mumenin, Robert Underwood, Dong Dai, Jinzhen Wang, Sheng Di, Zarija Lukic, and Franck Cappello, "DeepCQ: A Two-Stage Deep-Surrogate Framework for Lossy Compression Quality Prediction", IEEE International Conference on Cluster Computing (***IEEE CLUSTER2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
-Tripti Agarwal, Sheng Di, Xin Liang, Zhaoyuan Su, Yuxiao Li, Hanqi Guo, and Franck Cappello, "TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data", in The International Workshop on Data Compression for AI and Big Data Applications (***ACM DC4AI2026***) in conjunction with ***ACM ICPP2026***, 2026, [![pdf](assets/images/pdflog.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+Tripti Agarwal, Sheng Di, Xin Liang, Zhaoyuan Su, Yuxiao Li, Hanqi Guo, and Franck Cappello, "TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data", in The International Workshop on Data Compression for AI and Big Data Applications (***ACM DC4AI2026***) in conjunction with ***ACM ICPP2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Arham Khan, **Sheng Di**, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, and Franck Cappello, "SLyCE: An Efficient Surrogate-based Lossy Compression Quality Estimation Framework", IEEE Transactions on Big Data (***IEEE TBD***), 2023. [![pdf](assets/images/pdflogo.png)](https://www.computer.org/csdl/journal/bd/5555/01/11614759/2ihnGquDcTm).
 
