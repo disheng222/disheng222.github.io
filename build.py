@@ -259,17 +259,22 @@ def build():
             print(f"  - {f.name}")
 
 
-def deploy():
-    """Copy built files from _site/ to the repo root for direct serving."""
+def deploy(target=None):
+    """Copy built files from _site/ to a target directory for serving.
+
+    If target is None, defaults to the repo root.
+    Usage: python3 build.py --deploy [path]
+    """
+    target_dir = Path(target) if target else ROOT
     for item in BUILD_DIR.iterdir():
-        dest = ROOT / item.name
+        dest = target_dir / item.name
         if item.is_dir():
             if dest.exists():
                 shutil.rmtree(dest)
             shutil.copytree(item, dest, dirs_exist_ok=True)
         else:
             shutil.copy2(item, dest)
-    print(f"Deployed _site/ contents to {ROOT}/")
+    print(f"Deployed _site/ contents to {target_dir}/")
 
 
 def serve():
@@ -288,6 +293,8 @@ def serve():
 if __name__ == "__main__":
     build()
     if "--deploy" in sys.argv:
-        deploy()
+        idx = sys.argv.index("--deploy")
+        target = sys.argv[idx + 1] if idx + 1 < len(sys.argv) and not sys.argv[idx + 1].startswith("--") else None
+        deploy(target)
     if "--serve" in sys.argv:
         serve()
