@@ -50,7 +50,7 @@
 - [Eduardo Berrocal](https://eduberrocal.net/) (Ph.D student from [IIT](https://www.iit.edu/), USA); Present: Senior Software Engineer at [Intel Inc.](https://www.intel.com/), USA.
 - [Omer Subasi](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=9098) (Ph.D student from [BSC](https://www.bsc.es/), Spain); Present: Computer Scientist at [PNNL](https://www.pnnl.gov/), USA.
 - [Dingwen Tao](https://www.dingwentao.com/) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Full Professor at [Chinese Academy of Sciences](https://english.cas.cn/), USA.
-- [Xin Liang](https://lxaltria.github.io/) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Assistant Computer Scientist at [Oregon State University](https://oregonstate.edu/), USA.
+- [Xin Liang](https://lxaltria.github.io/) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Associate Professor at [Oregon State University](https://oregonstate.edu/), USA.
 - [Sihuan Li](https://sites.google.com/ucr.edu/sli049/home) (Ph.D student from [UCR](https://www.ucr.edu/), USA); Present: Engineer at [Meta Inc.](http://www.facebook.com), USA.
 - Tasimia Reza (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
 - Ruiwen Shan (Ph.D student from [Clemson U.](https://www.clemson.edu/), USA).
