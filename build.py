@@ -9,6 +9,7 @@ import os
 import re
 import sys
 import shutil
+import time
 import yaml
 from pathlib import Path
 from markdown_it import MarkdownIt
@@ -164,7 +165,7 @@ def render_sidebar(sidebar_data):
     return html
 
 
-def build_index(sidebar_data):
+def build_index(sidebar_data, cache_ver):
     nav_html = '<div class="section-nav">\n'
     for section_name in SECTION_ORDER:
         label = NAV_LABELS.get(section_name)
@@ -188,7 +189,7 @@ def build_index(sidebar_data):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Dr. Sheng Di's Homepage</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css?v={cache_ver}">
 </head>
 <body>
 
@@ -217,7 +218,7 @@ def build_index(sidebar_data):
     return page_html
 
 
-def build_markdown_page(md_file, sidebar_data):
+def build_markdown_page(md_file, sidebar_data, cache_ver):
     md_text = md_file.read_text(encoding="utf-8")
     lines = md_text.split("\n")
     content_lines = []
@@ -243,7 +244,7 @@ def build_markdown_page(md_file, sidebar_data):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Dr. Sheng Di's Homepage</title>
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css?v={cache_ver}">
 </head>
 <body>
 
@@ -275,6 +276,7 @@ def build():
     BUILD_DIR.mkdir()
 
     sidebar_data = load_sidebar_data()
+    cache_ver = int(time.time())
 
     # Copy assets
     if ASSETS_DIR.exists():
@@ -292,14 +294,14 @@ def build():
             shutil.copy2(src, BUILD_DIR / extra_file)
 
     # Build index page
-    index_html = build_index(sidebar_data)
+    index_html = build_index(sidebar_data, cache_ver)
     (BUILD_DIR / "index.html").write_text(index_html, encoding="utf-8")
 
     # Build other markdown pages (e.g., my-job-openings.md)
     for md_file in ROOT.glob("*.md"):
         if md_file.name in ("README.md",):
             continue
-        page_html = build_markdown_page(md_file, sidebar_data)
+        page_html = build_markdown_page(md_file, sidebar_data, cache_ver)
         out_name = md_file.stem + ".html"
         (BUILD_DIR / out_name).write_text(page_html, encoding="utf-8")
 
