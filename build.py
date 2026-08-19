@@ -103,6 +103,31 @@ def style_paper_titles(html):
     return ''.join(result)
 
 
+def highlight_awards(html):
+    """Wrap award mentions in pub-list with <span class="award">."""
+    parts = re.split(r'(<div class="pub-list">|</div>)', html)
+    inside = False
+    result = []
+    for part in parts:
+        if part == '<div class="pub-list">':
+            inside = True
+            result.append(part)
+        elif part == '</div>' and inside:
+            inside = False
+            result.append(part)
+        elif inside:
+            part = re.sub(
+                r'<strong>((?:best (?:paper|poster|student paper)|(?:1st|2nd|3rd) place)[^<]*)</strong>',
+                r'<span class="award"><strong>\1</strong></span>',
+                part,
+                flags=re.IGNORECASE,
+            )
+            result.append(part)
+        else:
+            result.append(part)
+    return ''.join(result)
+
+
 def render_markdown(text):
     # Strip kramdown attribute syntax like {:target="_blank"} before rendering
     text = re.sub(r'\{:target="_blank"\}', '', text)
@@ -113,6 +138,7 @@ def render_markdown(text):
     html = html.replace('<a href="http', '<a target="_blank" href="http')
     html = auto_number_publications(html)
     html = style_paper_titles(html)
+    html = highlight_awards(html)
     return html
 
 
@@ -290,13 +316,14 @@ def deploy(target=None):
     If target is None, defaults to the repo root.
     Usage: python3 build.py --deploy [path]
     """
-    target_dir = Path(target) if target else ROOT
+    target_dir = Path(target).expanduser().resolve() if target else ROOT
+    target_dir.mkdir(parents=True, exist_ok=True)
     for item in BUILD_DIR.iterdir():
         dest = target_dir / item.name
         if item.is_dir():
             if dest.exists():
                 shutil.rmtree(dest)
-            shutil.copytree(item, dest, dirs_exist_ok=True)
+            shutil.copytree(item, dest)
         else:
             shutil.copy2(item, dest)
     print(f"Deployed _site/ contents to {target_dir}/")

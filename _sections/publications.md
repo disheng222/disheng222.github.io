@@ -158,11 +158,11 @@ Shixun Wu, Yitong Ding, Yujia Zhai, Jinyang Liu, Jiajun Huang, Zizhe Jian, Huang
 
 Tripti Agarwal, **Sheng Di**, Jiajun Huang, Yafan Huang, Ganesh Gopalakrishnan, Robert Underwood, Kai Zhao, Xin Liang, Guanpeng Li, and Franck Cappello, "SZOps: Scalar Operations for Error-bounded Lossy Compressor for Scientific Data", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (***DRBSD***), in conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***),2024, [![pdf](assets/images/pdflogo.png)](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a260/555400a260.pdf).
 
-Thomas Grutzmacher, Robert Underwood, **Sheng Di**, Franck Cappello, and Hartwig Anzt, "FRSZ2 for In-Register Block Compression Inside GMRES on GPUs", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (***DRBSD***), in the conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***), 2024, best paper award, [![pdf](assets/images/pdflogo.png)](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a240/555400a240.pdf). **best paper award**
+Thomas Grutzmacher, Robert Underwood, **Sheng Di**, Franck Cappello, and Hartwig Anzt, "FRSZ2 for In-Register Block Compression Inside GMRES on GPUs", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (***DRBSD***), in the conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***), 2024, [![pdf](assets/images/pdflogo.png)](https://conferences.computer.org/sc-wpub/pdfs/SC-W2024-6oZmigAQfgJ1GhPL0yE3pS/555400a240/555400a240.pdf). **best paper award**
 
 Leonardo Bautista-Gomez, Anne Benoit, **Sheng Di**, Thomas Herault, Yves Robert, and Hongyang Sun, "A survey on checkpointing strategies: Should we always checkpoint a la Young/Daly?", Future Generation Computer Systems (***FGCS***), 2024, [![pdf](assets/images/pdflogo.png)](https://doi.org/10.1016/j.future.2024.07.022).
 
-Yafan Huang, **Sheng Di**, Guanpeng Li, Franck Cappello, "cuSZp2: A GPU Lossy Compressor with Extreme Throughput and Optimized Compression Ratio", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***), 2024, best paper finalist, [![pdf](assets/images/pdflogo.png)](https://dl.acm.org/doi/10.1109/SC41406.2024.00021). **best paper finalist**
+Yafan Huang, **Sheng Di**, Guanpeng Li, Franck Cappello, "cuSZp2: A GPU Lossy Compressor with Extreme Throughput and Optimized Compression Ratio", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***), 2024, [![pdf](assets/images/pdflogo.png)](https://dl.acm.org/doi/10.1109/SC41406.2024.00021). **best paper finalist**
 
 Yafan Huang, **Sheng Di**, Zhaorui Zhang, Xiaoyi Lu, Guanpeng Li, "Versatile Datapath Soft Error Detection on the Cheap for HPC Applications", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2024***), 2024, [![pdf](assets/images/pdflogo.png)](https://dl.acm.org/doi/10.1109/SC41406.2024.00061).
 
@@ -214,7 +214,7 @@ Robert Underwood, Julie Bessac, David Krasowska, Jon C Calhoun, **Sheng Di**, Fr
 
 Arkaprabha Ganguli, Robert Underwood, Julie Bessac, David Krasowska, Jon Calhoun, **Sheng Di**, Franck Cappello, "A Lightweight, Effective Compressibility Estimation Method for Error-bounded Lossy Compression", in IEEE International Conference on Cluster Computing(***IEEE CLUSTER2023***), 2023, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/10319944).
 
-Arham Khan, **Sheng Di**, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, Franck Cappello, "An Efficient and Accurate Compression Ratio Estimation Model for SZx", in IEEE International Conference on Cluster Computing(***IEEE CLUSTER2023***), 2023. (best poster award), [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/10487057) [poster]. **best poster award**
+Arham Khan, **Sheng Di**, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, Franck Cappello, "An Efficient and Accurate Compression Ratio Estimation Model for SZx", in IEEE International Conference on Cluster Computing(***IEEE CLUSTER2023***), 2023, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/10487057) [poster]. **best poster award**
 
 Yafan Huang, **Sheng Di**, Xiaodong Yu, Guanpeng Li, Franck Cappello, "cuSZp: An Ultra-fast GPU Error-bounded Lossy Compression Framework with Optimized End-to-End Performance", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2023***), 2023, [![pdf](assets/images/pdflogo.png)](https://dl.acm.org/doi/10.1145/3581784.3607048).
 
@@ -224,7 +224,7 @@ Jinyang Liu, **Sheng Di**, Sian Jin, Kai Zhao, Xin Liang, Zizhong Chen, Franck C
 
 Jiajun Huang, Jinyang Liu, **Sheng Di**, Yujia Zhai, Shixun Wu, Kai Zhao, Zizhong Chen, Yanfei Guo, Franck Cappello, "Exploring Wavelet Transform Usages for Error-bounded Scientific Data Compression", International Workshop on Big Data Reduction (***IEEE IWBDR23***) in conjunction with IEEE International Conference on Big Data (***IEEE BigData23***), 2023, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/10386386).
 
-Jiajun Huang, **Sheng Di**, Xiaodong Yu, Zizhong Chen, Franck Cappello, Yanfei Guo, and Rajeev Thakur, "Accelerating Collective Communications with Lossy Compression on GPU", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2023***), 2023. , (1st place of ACM SRC award -- Graduates). **1st place of ACM SRC award -- Graduates)**
+Jiajun Huang, **Sheng Di**, Xiaodong Yu, Zizhong Chen, Franck Cappello, Yanfei Guo, and Rajeev Thakur, "Accelerating Collective Communications with Lossy Compression on GPU", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2023***), 2023. **1st place of ACM SRC award -- Graduates**
 
 Avinash Kethineedi, Jon C. Calhoun, Robert Underwood, **Sheng Di**, Franck Cappello, "ROI Preservation in Streaming Lossy Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2023***), 2023.
 
@@ -274,9 +274,9 @@ Sian Jin, Dingwen Tao, Houjun Tang, **Sheng Di**, Suren Byna, Zarija Lukic, Fran
 
 Jinyang Liu, **Sheng Di**, Kai Zhao, Xin Liang, Zizhong Chen, Franck Cappello, "Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/10046076).
 
-Milan Shah, Xiaodong Yu, **Sheng Di**, Franck Cappello, Michela Becchi, "Compressing Quantum Circuit Simulation Tensor Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022. (2nd place of ACM SRC award -- Graduates). **2nd place of ACM SRC award -- Graduates)**
+Milan Shah, Xiaodong Yu, **Sheng Di**, Franck Cappello, Michela Becchi, "Compressing Quantum Circuit Simulation Tensor Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022. **2nd place of ACM SRC award -- Graduates**
 
-David Krasowska, Robert Underwood, Julie Bessac, Jon Calhoun, **Sheng Di**, Franck Cappello, "Statistical Prediction of Lossy Compression Ratios for 3D Scientific Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022. (1st place of ACM SRC award -- Undergraduates). **1st place of ACM SRC award -- Undergraduates)**
+David Krasowska, Robert Underwood, Julie Bessac, Jon Calhoun, **Sheng Di**, Franck Cappello, "Statistical Prediction of Lossy Compression Ratios for 3D Scientific Data", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022. **1st place of ACM SRC award -- Undergraduates**
 
 Jiannan Tian, Dingwen Tao, **Sheng Di**, Franck Cappello, "Spline-interpolation based Error-bounded Lossy Compression for Scientific Data on GPUs", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2022***), 2022.
 
@@ -404,7 +404,7 @@ Wenbin He, Hanqi Guo, Tom Peterka, **Sheng Di**, Franck Cappello, Han-Wei Shen, 
 
 Dingwen Tao, **Sheng Di**, Xin Liang, Zizhong Chen, Franck Cappello, "Fixed-PSNR Lossy Compression for Scientific Data", in ***IEEE CLUSTER 2018.***, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/8514891).
 
-Xin Liang, **Sheng Di**, Dingwen Tao, Zizhong Chen, Franck Cappello, "Efficient Transformation Scheme for Lossy Data Compression with Point-wise Relative Error Bound", in ***IEEE CLUSTER 2018.*** (best paper), [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/8514879). **best paper**
+Xin Liang, **Sheng Di**, Dingwen Tao, Zizhong Chen, Franck Cappello, "Efficient Transformation Scheme for Lossy Data Compression with Point-wise Relative Error Bound", in ***IEEE CLUSTER 2018***, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/8514879). **best paper**
 
 Ali Murat Gok, **Sheng Di**, Yuri Alexeev, Dingwen Tao, Vladimir Mironov, Franck Cappello, "PaSTRI: Error-bounded Lossy Compression for Two-Electron Integrals in Quantum Chemistry", in ***IEEE CLUSTER 2018***, 2018., [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/8514854). **best paper**
 
@@ -538,7 +538,7 @@ Haibao Chen, Song Wu, Zhenjiang Xie, **Sheng Di**, Bingbing Zhou, Xuanhua Shi, H
 
 Zheming Xu, **Sheng Di**, Luwei Cheng, Weida Zhang and Cho-Li Wang, "WAVNet: Wide-Area Network Virtualization Technique for Virtual Private Cloud", in Proc. of 40th International Conference on Parallel Processing (***IEEE ICPP2011***), 2011, pp. 285-294., [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/6047197). **best paper nominee**
 
-Luwei Cheng, Cho-Li Wang, **Sheng Di**, "Defeating Network Jitter for Virtual Machines", " in IEEE/ACM International Conference on Utility and Cloud Computing (***IEEE/ACM UCC2011***), 2011. (best student paper award), [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/6123482). **best student paper award**
+Luwei Cheng, Cho-Li Wang, **Sheng Di**, "Defeating Network Jitter for Virtual Machines", in IEEE/ACM International Conference on Utility and Cloud Computing (***IEEE/ACM UCC2011***), 2011, [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/6123482). **best student paper award**
 
 **-----2010-----**
 

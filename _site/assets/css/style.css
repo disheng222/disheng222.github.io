@@ -306,6 +306,10 @@ body {
   text-decoration: underline;
 }
 
+.award {
+  color: red;
+}
+
 .pub-list p.pub-year {
   color: #000080;
   font-size: 12pt;
