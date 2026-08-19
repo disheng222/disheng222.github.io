@@ -79,6 +79,30 @@ def auto_number_publications(html):
     return ''.join(result)
 
 
+def style_paper_titles(html):
+    """Wrap quoted paper titles in pub-list with <span class="paper-title">."""
+    parts = re.split(r'(<div class="pub-list">|</div>)', html)
+    inside = False
+    result = []
+    for part in parts:
+        if part == '<div class="pub-list">':
+            inside = True
+            result.append(part)
+        elif part == '</div>' and inside:
+            inside = False
+            result.append(part)
+        elif inside:
+            part = re.sub(
+                r'&quot;(.+?)&quot;',
+                r'<span class="paper-title">&quot;\1&quot;</span>',
+                part,
+            )
+            result.append(part)
+        else:
+            result.append(part)
+    return ''.join(result)
+
+
 def render_markdown(text):
     # Strip kramdown attribute syntax like {:target="_blank"} before rendering
     text = re.sub(r'\{:target="_blank"\}', '', text)
@@ -88,6 +112,7 @@ def render_markdown(text):
     # Make external links open in new tab
     html = html.replace('<a href="http', '<a target="_blank" href="http')
     html = auto_number_publications(html)
+    html = style_paper_titles(html)
     return html
 
 

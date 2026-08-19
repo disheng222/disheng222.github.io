@@ -295,6 +295,17 @@ body {
   font-weight: bold;
 }
 
+.pub-list em strong,
+.pub-list strong em {
+  color: #0000FF;
+  text-decoration: underline;
+}
+
+.paper-title {
+  font-style: italic;
+  text-decoration: underline;
+}
+
 .pub-list p.pub-year {
   color: #000080;
   font-size: 12pt;
