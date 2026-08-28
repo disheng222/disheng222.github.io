@@ -20,6 +20,8 @@ Youyuan Liu, Longtao Zhang, Ruoyu Li, Bo Jiang, Taolue Yang, Kai Zhao, **Sheng D
 
 Darren Ng, Abdullah Naveed, Duo Zhang, Guanpeng Li, **Sheng Di**, Xiaoyi Lu, "Z-SPDK: Accelerating Lossy Compressed I/O on NVMe-SSDs", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
+Jiefeng Zhou, **Sheng Di**, Yanfei Guo, Yuhao Guo, Linqi Zhang, Kai Zhao, Rajeev Thakur, Franck Cappello, and Jiajun Huang, "hZCCL2: Co-Designing Collective Communication with Vectorized Homomorphic Compression", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
 Changqing Li, **Sheng Di**, Kai Zhao, Wenqian Dong, "LLM Agents Meet Lossy Compression: Benchmark, Demystify and Optimize across HPC Architectures", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Bo Jiang, Youyuan Liu, Taolue Yang, **Sheng Di**, Sian Jin, "3D Gaussian Splatting for Scientific Particle Data Compression and Rendering", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (***IEEE/ACM SC2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
