@@ -6,7 +6,7 @@
 
 **-----2026-----**
 
-Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce Wang, Sian Jin, Luanzheng Guo, **Sheng Di**, Yuede Ji, Miao Yin,"FLARE: A DataFlow-Aware and ScaLAble HardwaRE Architecture for Neural-Hybrid Scientific Lossy Compression", 32nd Asia and South Pacific Design Automation Conference (ASP-DAC 2027), 2027, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce Wang, Sian Jin, Luanzheng Guo, **Sheng Di**, Yuede Ji, Miao Yin,"FLARE: A DataFlow-Aware and ScaLAble HardwaRE Architecture for Neural-Hybrid Scientific Lossy Compression", 32nd Asia and South Pacific Design Automation Conference (***ASP-DAC2027***), 2027, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Guoxi Liu, Yuxiao Li, Congrong Ren, Robert Underwood, Xin Liang, Bei Wang, **Sheng Di**, Franck Cappello, and Hanqi Guo, "FZ-VIS: A Visual Analytics Framework for Quantities-of-Interest-Aware Scientific Lossy Compression", IEEE Visualization Conference (***IEEE VIS2026***), 2026. [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
