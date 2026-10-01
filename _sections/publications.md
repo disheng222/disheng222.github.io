@@ -4,15 +4,18 @@
 
 <div class="pub-list">
 
-**-----2026-----**
-
-Jian Xu, Siyi Wu, Yi Li, Bingzhe Li, Sian Jin, Wei Niu, **Sheng Di**, Yuede Ji, Miao Yin, "CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026.
-
-Ziyue Liu, Zhengyang Wang, Ruijie Zhang, Avinash Maurya, Hui Zhou, Paul D. Hovland, **Sheng Di**, Franck Cappello, Bogdan Nicolae, Zheng Zhang, "ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026.
-
-Yangming Zhang, Siyi Wu, Jian Wang, Bingzhe Li, Wei Niu, Sheng Di, Ming Li, Miao Yin, "Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026.
+**-----2027-----**
 
 Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce Wang, Sian Jin, Luanzheng Guo, **Sheng Di**, Yuede Ji, Miao Yin,"FLARE: A DataFlow-Aware and ScaLAble HardwaRE Architecture for Neural-Hybrid Scientific Lossy Compression", 32nd Asia and South Pacific Design Automation Conference (***ASP-DAC2027***), 2027, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
+**-----2026-----**
+
+Jian Xu, Siyi Wu, Yi Li, Bingzhe Li, Sian Jin, Wei Niu, **Sheng Di**, Yuede Ji, Miao Yin, "CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
+Ziyue Liu, Zhengyang Wang, Ruijie Zhang, Avinash Maurya, Hui Zhou, Paul D. Hovland, **Sheng Di**, Franck Cappello, Bogdan Nicolae, Zheng Zhang, "ReCoVer: Resilient LLM Pre-Training System via Fault-Tolerant Collective and Versatile Workload", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
+Yangming Zhang, Siyi Wu, Jian Wang, Bingzhe Li, Wei Niu, Sheng Di, Ming Li, Miao Yin, "Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
 
 Guoxi Liu, Yuxiao Li, Congrong Ren, Robert Underwood, Xin Liang, Bei Wang, **Sheng Di**, Franck Cappello, and Hanqi Guo, "FZ-VIS: A Visual Analytics Framework for Quantities-of-Interest-Aware Scientific Lossy Compression", IEEE Visualization Conference (***IEEE VIS2026***), 2026. [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
