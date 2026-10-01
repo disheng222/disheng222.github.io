@@ -16,7 +16,6 @@ Ziyue Liu, Zhengyang Wang, Ruijie Zhang, Avinash Maurya, Hui Zhou, Paul D. Hovla
 
 Yangming Zhang, Siyi Wu, Jian Wang, Bingzhe Li, Wei Niu, **Sheng Di**, Ming Li, Miao Yin, "Towards Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
-
 Guoxi Liu, Yuxiao Li, Congrong Ren, Robert Underwood, Xin Liang, Bei Wang, **Sheng Di**, Franck Cappello, and Hanqi Guo, "FZ-VIS: A Visual Analytics Framework for Quantities-of-Interest-Aware Scientific Lossy Compression", IEEE Visualization Conference (***IEEE VIS2026***), 2026. [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
 Ammar Ahmed, **Sheng Di**, Franck Cappello, Zirui Liu, Jingoo Han, and Ali Anwar, "Systematic Evaluation of Optimization Techniques for Long-Context Language Models", IEEE International Conference on Cluster Computing (***IEEE CLUSTER2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
