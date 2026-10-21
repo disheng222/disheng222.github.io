@@ -10,6 +10,10 @@ Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce 
 
 **-----2026-----**
 
+Khondoker Mirazul Mumenin, Dong Dai, **Sheng Di**, Franck Cappello , and Jinzhen Wang, "Compression Quality Estimation for Scientific Error-Bounded Lossy Compression: A Structured Review and Taxonomy", in ***IEEE Bigdata2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
+Md Hasanur Rahman, **Sheng Di**, Guanpeng Li, Franck Cappello, "Full-Coverage Variable-Precision Prompt KV Cache Compression for Long-Context LLM Inference", in ***IEEE Bigdata2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
 Le Chen, Zishen Wan, Baixi Sun, Xiaolong Ma, Chih-Hsuan Yang, Feng Yan, **Sheng Di**, Franck Cappello, and Rajeev Thakur, "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents", NeurIPS 2026 Workshop on AgenticOS (***AgenticOS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Jian Xu, Siyi Wu, Yi Li, Bingzhe Li, Sian Jin, Wei Niu, **Sheng Di**, Yuede Ji, Miao Yin, "CC-GS: Low-Memory 3D Gaussian Splatting Training via CPU-GPU Block-Wise Context Compositing", The 40th Annual Conference on Neural Information Processing Systems (***NeurIPS2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
@@ -24,7 +28,7 @@ Ammar Ahmed, **Sheng Di**, Franck Cappello, Zirui Liu, Jingoo Han, and Ali Anwar
 
 Khondoker Mirazul Mumenin, Robert Underwood, Dong Dai, Jinzhen Wang, **Sheng Di**, Zarija Lukic, and Franck Cappello, "DeepCQ: A Two-Stage Deep-Surrogate Framework for Lossy Compression Quality Prediction", IEEE International Conference on Cluster Computing (***IEEE CLUSTER2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
-Tripti Agarwal, **Sheng Di**, Xin Liang, Zhaoyuan Su, Yuxiao Li, Hanqi Guo, and Franck Cappello, "TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data", in The International Workshop on Data Compression for AI and Big Data Applications (***ACM DC4AI2026***) in conjunction with ***ACM ICPP2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). **best paper award** 
+Tripti Agarwal, **Sheng Di**, Xin Liang, Zhaoyuan Su, Yuxiao Li, Hanqi Guo, and Franck Cappello, "TopoSZp: Lightweight Topology-Aware Error-controlled Compression for Scientific Data", in The International Workshop on Data Compression for AI and Big Data Applications (***ACM DC4AI2026***) in conjunction with ***ACM ICPP2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://dl.acm.org/doi/10.1145/3816891.3837727). **best paper award** 
 
 Arham Khan, **Sheng Di**, Kai Zhao, Jinyang Liu, Kyle Chard, Ian Foster, and Franck Cappello, "SLyCE: An Efficient Surrogate-based Lossy Compression Quality Estimation Framework", IEEE Transactions on Big Data (***IEEE TBD***), 2023. [![pdf](assets/images/pdflogo.png)](https://www.computer.org/csdl/journal/bd/5555/01/11614759/2ihnGquDcTm).
 
@@ -50,7 +54,7 @@ Adelina Zheng, Dong Dai, **Sheng Di**, Franck Cappello, Jinzhen Wang, "PRISM: Li
 
 Ning Yan, **Sheng Di**, Kai Zhao, Hanqi Guo, Franck Cappello, Lipeng Wan, "Query-Driven Visualization over Compressed Scientific Data via Data–Index Co-Compression", International Conference for High Performance Computing, Networking, Storage, and Analysis (***IEEE/ACM SC2026***), 2026. [poster] [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
-Shan Huang, Zhijing Ye, Zhaorui Zhang, **Sheng Di**, Jiamin Wang, Wendy Hui Wang, Xiaodong Yu, "Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning", in Federated Foundation Models at the Edge workshop (***FFM@Edge***), in conjunction with 46th IEEE International Conference on Distributed Computing Systems (***IEEE ICDCS26***), [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/11623138).
+Shan Huang, Zhijing Ye, Zhaorui Zhang, **Sheng Di**, Jiamin Wang, Wendy Hui Wang, Xiaodong Yu, "Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning", in Federated Foundation Models at the Edge workshop (***FFM@Edge***), in conjunction with 46th IEEE International Conference on Distributed Computing Systems (***IEEE ICDCS2026***), [![pdf](assets/images/pdflogo.png)](https://ieeexplore.ieee.org/document/11623138).
 
 Jin Lee, Zhonghao Chen, Xuhang He, Robert Underwood, Bogdan Nicolae, Franck Cappello, Xiaoyi Lu, **Sheng Di**, Zheng Zhang, "SPARe: Stacked Parallelism with Adaptive Reordering for Fault-Tolerant LLM Pretraining Systems with 100k+ GPUs", International Conference on Machine Learning (***ICML26***), 2026, [![pdf](assets/images/pdflogo.png)](https://openreview.net/forum?id=RyaQldE2Gh&referrer=%5Bthe%20profile%20of%20Bogdan%20Nicolae%5D(%2Fprofile%3Fid%3D~Bogdan_Nicolae1)).
 
