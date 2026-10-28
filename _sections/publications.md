@@ -6,9 +6,9 @@
 
 **-----2027-----**
 
-Lingqi Zhang, Yuhao Guo, Chen Zhuang, Du Wu, **Sheng Di**, Yicheng Tu, Jiajun Huang, Mohamed Wahib, "Pushing the Stencil Frontier with Repurposed Tensor Memory", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (ACM PPoPP26), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+Lingqi Zhang, Yuhao Guo, Chen Zhuang, Du Wu, **Sheng Di**, Yicheng Tu, Jiajun Huang, Mohamed Wahib, "Pushing the Stencil Frontier with Repurposed Tensor Memory", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (***ACM PPoPP26***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
-Jiefeng Zhou, **Sheng Di**, Franck Cappello, Jiajun Huang, "MAZ: Advancing the Ratio–Throughput Frontier with Multi-Dimensional Adaptive Compression", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (ACM PPoPP26), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
+Jiefeng Zhou, **Sheng Di**, Franck Cappello, Jiajun Huang, "MAZ: Advancing the Ratio–Throughput Frontier with Multi-Dimensional Adaptive Compression", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (***ACM PPoPP2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
 
 Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce Wang, Sian Jin, Luanzheng Guo, **Sheng Di**, Yuede Ji, Miao Yin,"FLARE: A DataFlow-Aware and ScaLAble HardwaRE Architecture for Neural-Hybrid Scientific Lossy Compression", 32nd Asia and South Pacific Design Automation Conference (***ASP-DAC2027***), 2027, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
