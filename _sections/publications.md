@@ -10,6 +10,8 @@ Wenqi Jia, Zhewen Hu, Baixi Sun, Yafan Huang, Jiannan Tian, Boyuan Zhang, Daoce 
 
 **-----2026-----**
 
+Kevin Dougherty, Robert Underwood, **Sheng Di**, Kai Zhao, Hanqi Guo, Jiannan Tian, Skyler Ruiter, Franck Cappello, "CompVOL: A Compressor Agnostic HDF5 VOL Adaptor for GPU-Accelerated Compression", in IEEE International Performance, Computing, and Communications Conference (***IEEE IPCCC2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
+
 Khondoker Mirazul Mumenin, Dong Dai, **Sheng Di**, Franck Cappello , and Jinzhen Wang, "Compression Quality Estimation for Scientific Error-Bounded Lossy Compression: A Structured Review and Taxonomy", in ***IEEE Bigdata2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Md Hasanur Rahman, **Sheng Di**, Guanpeng Li, Franck Cappello, "Full-Coverage Variable-Precision Prompt KV Cache Compression for Long-Context LLM Inference", in ***IEEE Bigdata2026***, 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
