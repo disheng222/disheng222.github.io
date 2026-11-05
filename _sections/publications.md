@@ -6,6 +6,8 @@
 
 **-----2027-----**
 
+Changqing Li, **Sheng Di** and Wenqian Dong, "When Less Work Costs More: Selectivity Inversion of Vector Search on Wafer-Scale Engine", Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (***IEEE HPCA2027***), 2027, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
+
 Lingqi Zhang, Yuhao Guo, Chen Zhuang, Du Wu, **Sheng Di**, Yicheng Tu, Jiajun Huang, Mohamed Wahib, "Pushing the Stencil Frontier with Repurposed Tensor Memory", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (***ACM PPoPP26***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html).
 
 Jiefeng Zhou, **Sheng Di**, Franck Cappello, Jiajun Huang, "MAZ: Advancing the Ratio–Throughput Frontier with Multi-Dimensional Adaptive Compression", Proceedings of the 30th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (***ACM PPoPP2026***), 2026, [![pdf](assets/images/pdflogo.png)](https://web.cels.anl.gov/~sdi/coming-soon.html). 
